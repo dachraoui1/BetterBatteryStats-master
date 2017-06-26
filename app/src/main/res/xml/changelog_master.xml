@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+    <release
+        version="2.3"
+        versioncode="85">
+        <change>Added application analytics</change>
+        <change>UI improvements</change>
+    </release>
+
+</changelog>
